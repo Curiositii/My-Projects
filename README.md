@@ -13,3 +13,7 @@ Learning Projects – Coursework or side projects where I explore APIs, database
 🎯 My Focus
 
 I’m mainly working toward becoming a back-end software developer, so most of my projects focus on building solid logic, clean architecture, and working with data efficiently. I like to understand how things work under the hood — whether that’s through debugging, data flow analysis, or system integration.
+
+🚀 How to Explore
+
+Each project lives in its own folder with its own README explaining what it does and how to run it. Feel free to dig around, try things out, or just get a feel for how I code.
