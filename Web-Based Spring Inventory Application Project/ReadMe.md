@@ -1,0 +1,1 @@
+The prompt for this project was to customize an application to meet a specific customer’s needs using Java, Spring, and HTML/CSS. I needed to adapt the provided system by updating the backend logic, UI, and data to fit the given customer's business.
