@@ -1,4 +1,4 @@
-Welcome to my coding playground! This repo is a collection of my personal and academic projects — each one showing my growth as a developer and my interest in building practical, back-end–focused software. From small experiments to full applications, this space highlights how I approach solving real problems with clean, logical code.
+Welcome to my repo! This is a collection of my personal and academic projects — each one showing my growth as a developer and my interest in building practical, back-end–focused software. From small experiments to full applications, this space highlights how I approach solving real problems with clean, logical code.
 
 🧠 What You’ll Find Here
 
