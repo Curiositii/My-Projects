@@ -1,1 +1,14 @@
-The prompt for this project was to customize an application to meet a specific customer’s needs using Java, Spring, and HTML/CSS. I needed to adapt the provided system by updating the backend logic, UI, and data to fit the given customer's business.
+Coffee Shop Inventory Management System
+A full-stack inventory management application built with Java and Spring Boot, customized for a coffee shop business. The system allows store managers to track products and their component parts, manage stock levels, and perform full CRUD operations through a web interface.
+
+Tech Stack:
+Java
+Spring Boot
+HTML/CSS
+SQL
+
+Features:
+Add, edit, and delete products and parts
+Track inventory levels for coffee shop items and ingredients
+Customized backend logic and UI for coffee shop use case
+Built on MVC architecture using Spring framework
