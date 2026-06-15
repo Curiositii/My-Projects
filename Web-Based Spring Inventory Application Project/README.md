@@ -12,3 +12,9 @@ Add, edit, and delete products and parts
 Track inventory levels for coffee shop items and ingredients
 Customized backend logic and UI for coffee shop use case
 Built on MVC architecture using Spring framework
+
+How to Run
+Clone the repository
+Open in IntelliJ IDEA
+Run the DemoApp File in src.main.java.com.example.demo folder
+Navigate to localhost:8080 in your browser
